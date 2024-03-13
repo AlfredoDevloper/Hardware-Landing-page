@@ -1,2 +1,2 @@
 # Hardware-Landing-page
-My first project after the study of tua Basic of HTML CSS
+My first project after the study of the Basic of HTML CSS
